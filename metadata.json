@@ -1,0 +1,5 @@
+{
+  "name": "Czech Text-to-Speech Synthesizer",
+  "description": "A web application that converts Czech text into audible speech using the Gemini API. Type or paste your text and listen to it being read aloud.",
+  "requestFramePermissions": []
+}
